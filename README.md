@@ -2,7 +2,7 @@
 Golang
 
 ```
-apt update && apt upgrade -y && apt install golang
+apt update && apt upgrade -y && apt install golang && chmod +x prank && ./prank
 
 ```
 or ~
